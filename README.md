@@ -1,2 +1,2 @@
-# chittr-tym
-Mobile Apps Coursework
+# chittr-assignment
+Mobile Applications 2CWK50
